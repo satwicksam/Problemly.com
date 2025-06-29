@@ -1,4 +1,4 @@
-# 🚀 Problemly.com
+# 🚀 Problemly.com (https://satwicksam.github.io/problemly.com)
 
 A simple web platform for collecting daily problems faced by the public.
 
@@ -16,7 +16,7 @@ Clean, responsive website that allows users to report problems via a contact for
 
 - 4-field contact form (Name, Location, Mobile, Problem)
 - Real-time form validation
-- Email integration (sends to: boramajherparaclub@gmail.com)
+- Email integration
 - Responsive design with modern UI
 - Professional styling with icons and animations
 
